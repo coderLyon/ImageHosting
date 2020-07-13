@@ -1,2 +1,2 @@
 # ImageHosting
-Image hosting server for personal blog, please do not download.
+An image hosting server for personal blog, please do not download.
